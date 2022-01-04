@@ -9,10 +9,11 @@ Citations
 * Swartz J, Koziatek C, Theobald J, Smith S, Iturrate E. <a href="https://pubmed.ncbi.nlm.nih.gov/28347453/">Creation of a simple natural language processing tool to support an imaging utilization quality dashboard</a>. Int J Med Inform. 2017 May;101:93-99.
 
 Background information about NegEx algorithm and Context developed by Wendy Chapman et al:
-* <a href="https://code.google.com/archive/p/negex/">NegEx Algorithm</a>
-* <a href="https://pypi.org/project/pyConTextNLP/">pyConTextNLP</a>
 * Chapman WW, Bridewell W, Hanbury P, Cooper GF, Buchanan BG.
 <a href="https://pubmed.ncbi.nlm.nih.gov/12123149/">A simple algorithm for identifying negated findings and diseases in discharge summaries</a>. J Biomed Inform. 2001 Oct;34(5):301-10.
+* <a href="https://code.google.com/archive/p/negex/">NegEx Algorithm</a>
+* <a href="https://pypi.org/project/pyConTextNLP/">pyConTextNLP</a>
+
 
 Older Perl version of similar logic:
 * <a href="https://metacpan.org/release/OSLER/Lingua-NegEx-0.10/view/lib/Lingua/NegEx.pm">Lingua::NegEx</a>
