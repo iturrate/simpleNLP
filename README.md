@@ -20,7 +20,7 @@ A simple algorithm for identifying negated findings and diseases in discharge su
 J Biomed Inform. 2001 Oct;34(5):301-10.
 
 Older Perl version of similar logic:
-<a href="https://metacpan.org/release/OSLER/Lingua-NegEx-0.10/view/lib/Lingua/NegEx.pm">Lingua::NegEx</a>
-<a href="https://metacpan.org/release/OSLER/Lingua-DxExtractor-1.08/view/lib/Lingua/DxExtractor.pm">Lingua::DxExtractor</a>
+* <a href="https://metacpan.org/release/OSLER/Lingua-NegEx-0.10/view/lib/Lingua/NegEx.pm">Lingua::NegEx</a>
+* <a href="https://metacpan.org/release/OSLER/Lingua-DxExtractor-1.08/view/lib/Lingua/DxExtractor.pm">Lingua::DxExtractor</a>
 
 Download a windows executable tool to perform simpleNLP tasks on your desktop: <a href="http://www.iturrate.com/simpleNLP">simpleNLP.exe</a>
