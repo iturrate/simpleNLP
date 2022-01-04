@@ -4,7 +4,7 @@ A simple classifier that takes text as input and evaluates whether a medical con
 Citations
 * Bilaloglu S, Aphinyanaphongs Y, Jones S, Iturrate E, Hochman J, Berger JS. <a href="https://pubmed.ncbi.nlm.nih.gov/32702090/">Thrombosis in Hospitalized Patients With COVID-19 in a New York City Health System</a>. JAMA. 2020;324(8):799–801. doi:10.1001/jama.2020.13372
 
-* Kang SK, Garry K, Chung R, Moore WH, Iturrate E, Swartz JL, Kim DC, Horwitz LI, Blecker S. <a href="https://pubmed.ncbi.nlm.nih.gov/31132331/?>Natural Language Processing for Identification of Incidental Pulmonary Nodules in Radiology Reports</a>. J Am Coll Radiol. 2019 May 24. 
+* Kang SK, Garry K, Chung R, Moore WH, Iturrate E, Swartz JL, Kim DC, Horwitz LI, Blecker S. <a href="https://pubmed.ncbi.nlm.nih.gov/31132331/?">Natural Language Processing for Identification of Incidental Pulmonary Nodules in Radiology Reports</a>. J Am Coll Radiol. 2019 May 24. 
 
 * Swartz J, Koziatek C, Theobald J, Smith S, Iturrate E. <a href="https://pubmed.ncbi.nlm.nih.gov/28347453/">Creation of a simple natural language processing tool to support an imaging utilization quality dashboard</a>. Int J Med Inform. 2017 May;101:93-99.
 
